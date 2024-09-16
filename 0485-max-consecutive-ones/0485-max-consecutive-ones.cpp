@@ -9,13 +9,12 @@ public:
             {
                 count++;
             }
-            else if(ans<count && nums[i]==0)
-            {
-                ans=count;
-                count=0;
-            }
             else
             {
+                if(count>ans)
+                {
+                    ans=count;
+                }
                 count=0;
             }
         }
