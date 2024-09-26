@@ -41,4 +41,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SubhajoyMukherjee/DSA-Leetcode-GFG/tree/master/0268-missing-number) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/SubhajoyMukherjee/DSA-Leetcode-GFG/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
