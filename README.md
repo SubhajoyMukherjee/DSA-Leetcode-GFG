@@ -20,6 +20,7 @@
 | [0268-missing-number](https://github.com/SubhajoyMukherjee/DSA-Leetcode-GFG/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/SubhajoyMukherjee/DSA-Leetcode-GFG/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SubhajoyMukherjee/DSA-Leetcode-GFG/tree/master/0485-max-consecutive-ones) |
+| [1603-running-sum-of-1d-array](https://github.com/SubhajoyMukherjee/DSA-Leetcode-GFG/tree/master/1603-running-sum-of-1d-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SubhajoyMukherjee/DSA-Leetcode-GFG/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -50,4 +51,8 @@
 | [0595-big-countries](https://github.com/SubhajoyMukherjee/DSA-Leetcode-GFG/tree/master/0595-big-countries) |
 | [1258-article-views-i](https://github.com/SubhajoyMukherjee/DSA-Leetcode-GFG/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/SubhajoyMukherjee/DSA-Leetcode-GFG/tree/master/1908-recyclable-and-low-fat-products) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/SubhajoyMukherjee/DSA-Leetcode-GFG/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
